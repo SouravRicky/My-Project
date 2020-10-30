@@ -1,0 +1,61 @@
+svg.radial-progress {
+    height: auto;
+    max-width: 200px;
+    padding: 1em;
+    transform: rotate(-90deg);
+    width: 100%;
+  }
+  
+svg.radial-progress circle {
+    fill: rgba(0,0,0,0);
+    stroke: #fff;
+    stroke-dashoffset: 219.91148575129; 
+    stroke-width: 7;
+  }
+svg.web circle{
+      stroke: #30bae7;
+  }
+svg.graphics circle{
+      stroke: #d74680;
+  }
+svg.html circle{
+      stroke: #15c7a8;
+  }
+svg.ui circle{
+      stroke: #eb7d4b;
+  }
+  
+svg.radial-progress circle.incomplete { opacity: 1; }
+  
+svg.radial-progress circle.complete { stroke-dasharray: 219.91148575129; }
+  
+svg.radial-progress circle.incomplete {
+      stroke: #dfe8ed;
+  }
+  
+svg.radial-progress text {
+    fill: #000;
+    text-anchor: middle;
+  }
+
+.section4_name{
+    font-weight: 700;
+}
+.name1{
+    padding-left: 20%;
+}
+.name2{
+    padding-left: 30%;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 600px){
+    svg.radial-progress {
+        margin-left: 15%;
+    }
+    .name1{
+        margin-left: 10%;
+    }
+    .name2{
+        margin-left: 10%;
+    }
+}

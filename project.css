@@ -1,0 +1,376 @@
+/* ********CSS for SECTION1 STARTED******** */
+.section1{
+    background-color: #87509c;
+}
+/* *****CSS for MENU started***** */
+ul{
+    margin-left: 70%;
+}
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    background-color: none;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.nav-link{
+    color: #f7f3ea !important;
+    font-weight: 400 !important;
+    font-family: 'Titillium Web', sans-serif !important;
+}
+.bg-dark{
+    transition: 400ms ease;
+    background-color: transparent !important;
+}
+.bg-dark.scrolled{
+    background-color: #87509c !important;
+}
+/* *****CSS for MENU ended***** */
+.text1{
+    color: #f7f3ea;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.btn1{
+    color: #f7f3ea;
+    border: 1px;
+    padding: 10px 50px 10px 50px;
+    background-color: #eb7d4b;
+    margin-left: 39%;
+    border-bottom: 5px solid #c86a40;
+}
+/* ********CSS for SECTION1 ENDED******** */
+
+/* ********CSS for SECTION2 STARTED******** */
+.section2{
+    background-color: #17c2a4;
+}
+.sec2{
+    padding-bottom: 50px;
+}
+h2{
+    color: #f7f3ea;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.line{
+    margin-left: 45%;
+}
+h5{
+    color: #f7f3ea;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.text2{
+    color: #f7f3ea;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.text3{
+    color: #f7f3ea;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.img4{
+    margin-left: 27%;
+    height: 131px; 
+    width:  95px;
+}
+.img3{
+    margin-left: 25%;
+    height: 130px; 
+    width: 163;
+}
+.img2{
+    margin-left: 40%;
+    height: 130px;
+    width: 89px;
+}
+.img1{
+    margin-left: 30%;
+    height: 130px; 
+    width: 123px;
+}
+/* ********CSS for SECTION2 ENDED******** */
+
+/* ********CSS for SECTION3 STARTED******** */
+.section3{
+    background-color: #e7f1f8;
+}
+.sec3{
+    margin-left: 4%;
+}
+.section3_text1{
+    color: #3c4761;
+    padding-top: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.section3_text2{
+    color: #3c4761;
+    font-weight: 500;
+    text-align: center;
+}
+.section3_name{
+    text-align: left;
+    /* margin-left: 5%; */
+    font-weight: 700;
+}
+.section3_post{
+    text-align: left;
+    /* margin-left: 3%; */
+    font-weight: 400;
+    color: #79d0ee;
+}
+.section3_img1{
+    margin-right: 100%;
+    height: 150px;
+    width: 150px;
+}
+.section3_text3{
+    font-family: 'Titillium Web', sans-serif;
+    color: #3c4761;
+    font-weight: 300;
+    text-align: left;
+   
+}
+/* ********CSS for SECTION3 ENDED******** */
+
+/* ********CSS for SECTION4 STARTED******** */
+.section4{
+    background-color: #ffffff;
+}
+.sec4{
+    margin-left: 4%;
+}
+.section4_text1{
+    color: #3c4761;
+    padding-top: 50px;
+    text-align: center;
+}
+.section4_text2{
+    color: #3c4761;
+    font-weight: 500;
+    text-align: center;
+}
+/* ********CSS for SECTION4 ENDED******** */
+
+/* ********CSS for SECTION5 STARTED******** */
+.section5{
+    background-color: #ffdd99;
+}
+.sec5{
+    margin-left: 4%;
+}
+.section5_text1{
+    color: #393939 !important;
+    font-weight: 700;
+    padding-top: 50px;
+    text-align: center;
+}
+.section5_text2{
+    color: #534f46;
+    font-weight: 500;
+    text-align: center;
+}
+.button{
+    background-color: #ebc985;
+    border: none;
+    padding: 2px 25px;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 5px;
+}
+.button1{
+    background-color: #e7f1f8;
+}
+.btngroup{
+    padding-left: 32%; 
+} 
+.section5_img1{
+    margin-left: 5%;
+    height: 250px;
+    width: 400px;
+}
+.section5_text3{
+    margin-left: 20%;
+    font-weight: 600;
+    font-size: medium;
+}
+.btn2{
+    color: #f7f3ea;
+    border: 1px;
+    padding: 10px 50px 10px 50px;
+    background-color: #17c2a4;
+    margin-left: 35%;
+    margin-bottom: 70px;
+}
+/* ********CSS for SECTION5 ENDED******** */
+
+/* ********CSS for SECTION6 STARTED******** */
+.section6{
+    background-color: #d74680;
+}
+h3{
+    color: #ffffff;
+    text-align: center;
+}
+.section6_text{
+    color: #ffffff;
+    text-align: center;
+}
+.name{
+    color: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+}
+.section6_text1{
+    color: #ffffff ;
+    font-family: 'Titillium Web', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+.section6_text2{
+    color: #fac996;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+}
+.section6_img{
+    height: 170px;
+    width: 170px;
+}
+/* ********CSS for SECTION6 ENDED******** */
+
+/* ********CSS for SECTION7 STARTED******** */
+.section7{
+    background-color: #3c5499;
+}
+.section7_text{
+    color: #ffffff;
+    text-align: center;
+}
+form{
+    padding: 20px 70px 20px 70px;
+}
+.form{
+    color: #ffffff; 
+    background-color: #273a71;
+}
+.message{
+    text-align: left !important;
+    padding: 50px 50px;
+}
+.section7_btn{
+    color: #f7f3ea;
+    border: 1px;
+    padding: 10px 50px 10px 50px;
+    background-color: #30bae7;
+    margin-left: 39%;
+    border-bottom: 5px solid #299ec5;
+}
+#contacts{
+    transition: 1s ease;
+}
+/* ********CSS for SECTION7 ENDED******** */
+
+/* ********CSS for SECTION8 STARTED******** */
+.section8{
+    background-color: #344b8e;
+    padding: 30px 30px;
+}
+.link{
+    color: #ffffff !important;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    padding: 30px 30px;
+    padding-left: 65px;
+ }
+.link2{
+    font-family: 'Titillium Web', sans-serif;
+    padding: 30px 30px;
+    padding-left: 65px;
+}
+
+/* ********CSS for SECTION8 ENDED******** */
+
+/********FOR MOBILE VIEW*********/
+
+@media only screen and (min-width: 300px) and (max-width: 600px){
+	.menu_btn{
+        margin-left: 60px;
+    }
+    .btn1{
+        padding: 10px 50px 10px 50px;
+        margin-left: 15%;
+    }
+    .line{
+        margin-left: 35%;
+    }
+    .section3_img1{
+        margin-left: 21%;
+    }
+    .section3_name{
+        margin-left: 22%;
+    }
+    .section3_post{
+        margin-left: 20%;
+    }
+    .icon{
+        margin-left: 20%;
+    }
+    .section5_img1{
+        width: 300px;
+        height: 200px;
+        margin-left: 0%;
+    }
+    .button{
+        padding: 2px 30px;
+        display: inline-block;
+        margin: 2px 5px;
+    }
+    .btn2{
+        padding: 10px 50px 10px 50px;
+        margin-left: 0%;
+    }
+    .section6_text{
+        margin-bottom: 100px;
+    }
+    form{
+        margin: 0;
+        padding: 0;
+    }
+    #textarea{
+        width: 290px;
+    }
+    .section7_btn{
+        margin-left: 43px;
+    }
+
+/********FOR TABLET VIEW*********/
+
+@media only screen and (min-width: 768px) and (max-width: 1000px){
+    .col{
+        width: 100%;
+    }
+    #textarea{
+        width: 550px;
+}
+
+/********FOR LAPTOP VIEW*********/
+
+@media only screen and (min-width: 1100px) and (max-width: 1400px){
+    ul{
+    margin-left: 0%;
+    margin-right: 10% !important;
+}
+    #textarea{
+        width: 550px;
+}
